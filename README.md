@@ -11,3 +11,5 @@ Things learned:
 1. Be specific.
 2. Think of scope.
 3. Google.
+
+![image](https://user-images.githubusercontent.com/110740700/188058397-bb51b890-1ea9-4c1e-97b2-9ec82d85e0ad.png)
